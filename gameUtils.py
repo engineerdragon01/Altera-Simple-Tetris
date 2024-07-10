@@ -1,0 +1,3 @@
+#
+class GameUtils:
+    pass
